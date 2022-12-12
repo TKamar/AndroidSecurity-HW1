@@ -72,16 +72,6 @@
 
             </com.google.android.material.textfield.TextInputLayout>
 
-            <!--    <EditText-->
-            <!--        android:id="@+id/editTextTextPersonName"-->
-            <!--        android:layout_width="wrap_content"-->
-            <!--        android:layout_height="wrap_content"-->
-            <!--        android:ems="10"-->
-            <!--        android:inputType="textPersonName"-->
-            <!--        android:hint="Username"-->
-            <!--        tools:layout_editor_absoluteX="194dp"-->
-            <!--        tools:layout_editor_absoluteY="161dp" />-->
-
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
